@@ -12,10 +12,9 @@ During this internship, I was tasked with creating a functional AI chatbot that 
 
 ## Technologies Used ⚙️
 
-- Python 🐍
-- TensorFlow / PyTorch 🧪
-- NLP Libraries (e.g., spaCy, NLTK) 📚
-- Flask / FastAPI (for API integration) 🚀
+- **Botpress**
+- **Natural Language Programming**
+- **Google**
 
 ## Getting Started 🚀
 
