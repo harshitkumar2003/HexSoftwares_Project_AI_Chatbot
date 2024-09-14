@@ -10,6 +10,9 @@ During this internship, I was tasked with creating a functional AI chatbot that 
 - **Response Generation:** 💬 Employs machine learning models to generate relevant and coherent responses.
 - **Integration:** 🔗 Designed for easy integration into various platforms and applications.
 
+## Checkout ✅
+https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=ac3151cb-d73d-4efb-8bf9-32ba5099f19c
+
 ## Technologies Used ⚙️
 
 - **Botpress**
